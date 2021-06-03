@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos sean a la segunda página!"
 --
-tu texto
+nueva cita generada
 Utiliza la flecha hacia la izquierda para volver!
